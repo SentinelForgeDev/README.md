@@ -88,7 +88,7 @@ As a cybersecurity student, I'm committed to continuous learning:
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername) *(Coming soon)*
 - 🐦 [Twitter/X](https://twitter.com/yourhandle) *(Coming soon)*
-- 📧 [Email](mailto:adam@example.com) *(Update with your email)*
+- 📧 [Email](mailto:adam@example.com) *(Coming soon)*
 - 🔗 [Portfolio](https://yourportfolio.com) *(Coming soon)*
 
 ---
